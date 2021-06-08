@@ -119,4 +119,5 @@ renderUsers();
 
 ////add comments to a posts 
 
-this is an example how it is has to work
+/* this is an example how it is has to work */
+seems like branching work and I can push all my files to git

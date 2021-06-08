@@ -119,4 +119,4 @@ renderUsers();
 
 ////add comments to a posts 
 
-
+this is an example how it is has to work
